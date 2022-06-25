@@ -1,0 +1,23 @@
+ME:
+
+           Hi I'm 16 years old new to this stuff and this is my first git hub
+           my project, this is chess, i know there are many mistakes, this
+           I started improving myself on subjects 5 months ago.
+
+THIS-PROJECT:
+
+          if you run this project once you will only get a white screen
+          window opens. you should run it once more after it opens
+          (You can open 2 windows at the same time without closing the previous popup.)
+          must be on)
+          these two windows communicate via the login file and
+          they are separated as player-1 and player-2 and the pieces are lined up, the first whites
+          starts....(chess rules)2 windows table the position they are playing
+          transmits to each other via file
+
+
+
+I used translate while writing these articles.
+
+
+
